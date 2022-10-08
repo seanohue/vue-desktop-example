@@ -45,6 +45,7 @@ export default {
 .desktop {
   width: 100vw;
   text-align: center;
+  user-select: none;
 }
 
 .draggable-container {
