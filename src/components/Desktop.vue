@@ -43,7 +43,6 @@ export default {
 
 <style scoped>
 .desktop {
-  width: 100vw;
   text-align: center;
   user-select: none;
 }

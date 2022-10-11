@@ -22,7 +22,9 @@ const props = defineProps({
   height: 192px;
 }
 
-@media only screen and (min-width: 500px) and (max-width: 999px) {
+
+
+@media only screen and (min-width: 500px) and (max-width: 999px) {  
   .desktop-icon-container {
     min-width: 33%;
   }
